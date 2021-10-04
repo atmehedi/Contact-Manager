@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Contact Manager</string>
+    <string name="dp_drop">DROP TABLE IF EXISTS</string>
+    <string name="this_is_for_backend_only">This is for backend only</string>
+</resources>
